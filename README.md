@@ -1,5 +1,5 @@
 # pytorch-learning-tutorials
-
+觉得可以，麻烦给个”Star“
 ## 1.Classification 图像分类
 >《pytorch实现L2和L1正则化的方法》https://panjinquan.blog.csdn.net/article/details/88426648
 
