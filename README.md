@@ -1,5 +1,12 @@
 # pytorch-learning-tutorials
 
+## 1.Classification 图像分类
+>《pytorch实现L2和L1正则化的方法》https://panjinquan.blog.csdn.net/article/details/88426648
+
+## 2.DeepLearningTutorials教程
+网上收集的Pytorch的学习资料
+
+## 3.一点笔记
 > 查看GPU使用情况
 ```bash
 nvidia-smi
@@ -13,7 +20,9 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "1"#编号从0开始
 ```python
 import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-device='cuda'
+# device='cuda'
 print("-----device:{}".format(device))
 print("-----Pytorch version:{}".format(torch.__version__))
 ```
+## 4.相关说明
+> Pytorch version:1.0.0 </br>

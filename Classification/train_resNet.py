@@ -5,7 +5,7 @@
     @Author : panjq
     @E-mail : pan_jinquan@163.com
     @Date   : 2019-03-07 16:46:53
-    @url: 《pytorch: 准备、训练和测试自己的图片数据》https://www.cnblogs.com/denny402/p/7520063.html
+    @url: 《pytorch实现L2和L1正则化的方法》https://panjinquan.blog.csdn.net/article/details/88426648
 """
 
 import torch
