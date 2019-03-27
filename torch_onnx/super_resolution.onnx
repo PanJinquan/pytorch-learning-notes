@@ -1,6 +1,5 @@
-pytorch0.4:ë£
-Í
-
+pytorch0.4:©±
+«
 0
 1
 29"Conv*
@@ -8,42 +7,39 @@
 group†*
 kernel_shape@@†*
 pads@@@@†*
-strides@@†2˜	D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\conv.py(320): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(60): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
+strides@@†2‘/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/conv.py(320): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(46): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-„
+–
+910"Relu2¿/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/functional.py(840): threshold
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/activation.py(50): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(46): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-910"Relu2”
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\functional.py(840): threshold
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\activation.py(50): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(60): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
-
-Ï
-
+…
 10
 3
 411"Conv*
@@ -51,42 +47,39 @@ D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(1
 group†*
 kernel_shape@@†*
 pads@@@@†*
-strides@@†2˜	D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\conv.py(320): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(61): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
+strides@@†2‘/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/conv.py(320): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(47): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-‰
+—
+1112"Relu2¿/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/functional.py(840): threshold
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/activation.py(50): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(47): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-1112"Relu2”
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\functional.py(840): threshold
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\activation.py(50): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(61): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
-
-Ï
-
+…
 12
 5
 613"Conv*
@@ -94,42 +87,39 @@ D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(1
 group†*
 kernel_shape@@†*
 pads@@@@†*
-strides@@†2˜	D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\conv.py(320): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(62): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
+strides@@†2‘/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/conv.py(320): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(48): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-‰
+—
+1314"Relu2¿/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/functional.py(840): threshold
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/activation.py(50): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(48): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
-1314"Relu2”
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\functional.py(840): threshold
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\activation.py(50): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(62): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
-
-Ï
-
+…
 14
 7
 815"Conv*
@@ -137,20 +127,20 @@ D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(1
 group†*
 kernel_shape@@†*
 pads@@@@†*
-strides@@†2˜	D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\conv.py(320): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(63): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
+strides@@†2‘/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/conv.py(320): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(49): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 
 R16"Constant*B
 value*6J0ˇˇˇˇˇˇˇˇ                     ‡       ‡       †
@@ -162,23 +152,22 @@ R16"Constant*B
 perm@ @@@@@†
 B19"Constant*2
 value*&J ˇˇˇˇˇˇˇˇ       †      †      †
-ñ
-
+Û
 18
-1920"Reshape2˛	D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\pixelshuffle.py(44): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(63): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(477): _slow_forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(487): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(252): forward
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\nn\modules\module.py(489): __call__
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\jit\__init__.py(197): get_trace_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(192): _trace_and_get_graph_from_model
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(224): _model_to_graph
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\utils.py(281): _export
-D:\Anaconda3\envs\pytorch-cpu\lib\site-packages\torch\onnx\__init__.py(22): _export
-D:/MyGit/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2.py(116): <module>
+1920"Reshape2€/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/pixelshuffle.py(44): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(49): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(477): _slow_forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(487): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(251): forward
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py(489): __call__
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/jit/__init__.py(196): get_trace_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(192): _trace_and_get_graph_from_model
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(224): _model_to_graph
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/utils.py(281): _export
+/home/ubuntu/anaconda3/envs/pytorch/lib/python3.6/site-packages/torch/onnx/__init__.py(22): _export
+/home/ubuntu/project/pytorch-learning-tutorials/torch_onnx/super_resolution_with_caffe2_zh.py(95): <module>
 torch-jit-export*ê2@B1JÄ2¯∑=â“/æ˘næıñr>m·=V◊=Âì<>RÆæ∆uΩgGΩÅØΩ∂6∂=)ñ·æá¨ß<Å¶·Ω;πÊ=^ÑΩo 1<Aœ°Ωtá_=É>@X>r·Wæc>	∫àΩ≤Wpºú™EΩX æ=;òõ>º∫ªwkû>b≥K<iUø=7¿Òæ…ku<≈Ã‹=ºÂ>a2æST}>aÁ/º :KæÒWº¥`Î=ÊÔ-æ^û˛Ωπ¬ﬁªÊ2æûu†ΩFp;æED>ri≤>?ÂÜ=_ £=Ò®=é”ΩK⁄<ùKî<>‰Å=∫<PæÊÏ∆Ω‹i˚Ω´†Ø=a≠Å>$ì=∑±“º@≤Ú>ß˜-<Ûá>ÕQ= ¶˙=ÿÅæN\zælÌˇ=–¥æ#£t=Ö≤=^o∫Fô†>µ8+Ω‚ƒ†Ω6ÇÄ>ò?æ‘ÕhæÔ$£<ŸeN>˜vÚΩﬂËıºvƒhΩΩ=ã”´=•à>≠-õºSÆx=L∞±>≤ºÛΩê„ÿΩ£<=ÇÑΩÆûS>g˝ø°g\æWTº'†€ºÆ> oV>ÖÚıΩ©∏ÄªŒw8=ÏΩΩ∂>f«a< ±‘="≥=Ó"®Ω˘FëæZñΩ]ZkºÛôœºK÷æ=î£ùΩQﬂs<flæ>|≈>CÌM=^x<Ek)æ9õ9>pÎJæhqU=paæÏíæÈñ=˘‹B>-£)<©ö>(1Ωÿód>ôËçΩøX6Ωˆã>ˇ =◊æ®Jí>Zd!ΩSˆâ>ãˆï=Rb•>©ŸΩ=Å…<NÄÑæ	ñ±æó®v=ÕΩî‹ì<˜qﬂ=cΩ|>Ii+æu∏D>/
 Ïæˆπãæ√fnæUe!>‘9æo›æÖ≤Â=•#ÇªíÔ‚=∆Cr=÷5>&÷º∑}Á=¨¢I>ÓΩﬂ¬^æqX=Yf?>j¥ˇ>[¬2>æ	g”<Áè>Ω∞≥≠Ωπ=÷Çæ%û>»ïk>÷Aæ¯›:ΩyJºcW±æ7Çq=ÿ∏ΩÚj$>ãÙ$>r™«Ω˙ö%=ºY6æseò;ñoHæ¿3¡ΩwÛê>4ØOæ2ÈX>ˇ√>'Ω>{-æÆsΩœY3>›mwæ|å9>ß|>+ëΩ°àªãq∏>Ω<ΩûÜíæπ_F=„cæêÉΩ'„4æ@ª¡ºÄ∂=8é=ˇˆΩç∆*<.…ÿ;∞éª‘‚æùùπΩp '>;ÂZæÛ[rºØ4ΩvW>K◊ÃΩ*Ä„=IÈ∆æ°=dËæ˝Ê=EΩì>æÅ\Á>£ÎJ>˝Î?æ/1uΩ^Û[=Ë¨¶=7íw>Ê˙KΩû‹Ωy0!>s5†>…nH<XÑÊ=≥ä=—üFæZƒûΩdÌë=%a	=Å&>+‚–=NÅ>†Õ4=oÓEæw&Q>Äû2ºWÓΩvÒÇº∏çœæ;ΩŒèÏºàà8>–Fwæ—Œ>, Æ>√›c>1¨;æ"Ï∑Ω?—µ<¯õÆ=XæhæKü%=jƒV>ÄÀëΩôSg>€m0>ƒLûæíÃ–>‘U¶æ˝∆PΩ[¸æ-˛æRrΩ15=˛Øƒ<µ≤=«÷#Ω§à†ª}œæO¶ñ=.Iœ=Nc>M‹=Û∑G>"3&Ω É◊Ωq ï=»‰<ΩäæûJ≈Ωôƒ>˘§˚<;Eº5/<=p¸æ$D¡<ºua>Óh>ñá¢æX»	ºlbã=y]"æ©Ó=>	Ω∫<>~©Ω`?ùΩ¶o•ΩÁN2>Å¢>è9∞ºíñ=∂æ)Ô†æg‘ΩØóhºï‰“>í•∂Ω‚‚´ΩQRKæ<pΩ >!®=ü…Fæê3º±™7>Iƒ>V•æ¿=ÍîΩ;ﬁ=¥*s>ª~ö=c®?>%>Ë~ÇΩ±zàºüL‡=.Œ>·#÷Ωãà7Ω	…j;nΩ1èY>làwæAÂ¬æáΩ$–±>#Hò>ú>£“9=ÉyºéM6æÁæ@>%Ú⁄Ω˚Næ≠	æ8x.æö√ó>Ã◊©æÖD>ÛÈèæ(éæ4ET>f¶ >‰˚&>Xç>:”B=ÈõWΩ«É¡Ω√A≈æÕZAæGø>ç4>l‚Ê9ûJŸΩø„á=†tÊ=‘:>†≠:=YÀeΩãﬂ>@b-æÍ¡Ÿ>íSæ»ﬁF>¥Ò≤>A©À=˘e)>O“èæ\MΩ’¸£æ";'ØÒΩX'®>Êjy>œÆè=û=jÄÄ=◊,	>ˇÀ]ΩBL=@9>Ä¬uΩ≈øY>”ÇΩí->§v0=«õ>’oƒ=á’r<€ä≤º˘ÇYΩÆçlæˇ5º‘£õ>YAM>ö;3>˛{Ω©ÿ!>Ë c<É;o>ﬁ'OæˆRÖ>Ê<8ùæ¥‘‘;1Qr>æÒª=Fò·æ?á<◊Oº5]Å>ÇÃ&æ~ÁhºBa>ûCN>S’æëo|æ8kä=°no>z§ø=ÏŸæàöΩ@ÕÜ>uúÜ=â∏uæ^Îæå>åá->≈ÛOæF_ΩDÜmº=¢Òæ÷ò¿=5)>E®zæ'?æÄ—ªqoR>NI\<úvM<t
 ÁºÖû>:>ò.3>òQ»æíàîª∑˜’ΩÀY>AX|>ù¶t∫´´Ã=Ω`'>=ΩÂ=KP=°îæ8=^q¢ΩQÊ¶=*á∑Ω‹≥=Ï =!∏üæq–’ª`œ%>}t>¢“U=ÉÍõ>jaËΩ3hLº√˜W>:≠ı=;Îùº·t©Ω‰ﬁd>ú6rΩ#¢ªΩ/©Óæ0A>ˆ…gΩ∏√ºË-)æÊ˝ïΩ>m^>¥Ææ¿¸˙=r>-ì_=]∑=EÔ
