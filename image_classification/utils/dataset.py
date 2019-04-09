@@ -15,8 +15,6 @@ from utils import image_processing
 import os
 from PIL import Image
 
-
-
 def read_image(path):
     return Image.open(path).convert('RGB')
 

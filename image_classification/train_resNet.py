@@ -194,7 +194,9 @@ def net_train(train_filename, train_image_dir, test_filename, test_image_dir, nu
             # print("batch_image.shape:{},batch_label:{}".format(batch_x.shape,batch_y))
 
             batch_x = batch_x.to(device)
-            batch_y = batch_y.to(device)
+            # batch_y = batch_y.to(device)
+            batch_y = batch_y.to(device=device, dtype=torch.int64)
+
             out = model(batch_x)
 
             # loss and regularization

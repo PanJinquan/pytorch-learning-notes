@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/PytorchDataset" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/image_classification" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.7 (D:\Anaconda3\envs\pytorch-cpu\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5 (Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
