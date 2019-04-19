@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d950cf-f39f-430b-9716-eb855ccfa020" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytorch-learning-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch-learning-tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_classification/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification/utils/image_processing.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1d950cf-f39f-430b-9716-eb855ccfa020" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -454,15 +448,16 @@
       <workItem from="1555594111285" duration="1475000" />
       <workItem from="1555647280870" duration="597000" />
       <workItem from="1555666827128" duration="568000" />
-      <workItem from="1555671495406" duration="490000" />
+      <workItem from="1555671495406" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86747000" />
+    <option name="totallyTimeSpent" value="86850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1678" height="934" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24536465" />
       <window_info id="Structure" order="1" weight="0.25" />
