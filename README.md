@@ -2,13 +2,14 @@
 觉得可以，麻烦给个”Star“
 ## 1.image_classification 图像分类
 >《pytorch实现L2和L1正则化的方法》https://panjinquan.blog.csdn.net/article/details/88426648
-
-## 2.DeepLearningTutorials教程
+## 2.object_detection目标检测
+> mobileNet v1 v2 SSD目标检测
+## 3.DeepLearningTutorials教程
 网上收集的Pytorch的学习资料
 
-## 3.caffe2-android
+## 4.caffe2-android
 在android上运行caffe2模型实现图像识别的demo
-## 4.一点笔记
+## 5.一点笔记
 > 查看GPU使用情况
 ```bash
 nvidia-smi

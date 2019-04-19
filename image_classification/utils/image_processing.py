@@ -13,31 +13,36 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-def show_image(title, image):
+def show_image(title, rgb_image):
     '''
     调用matplotlib显示RGB图片
     :param title: 图像标题
-    :param image: 图像的数据
+    :param rgb_image: 图像的数据
     :return:
     '''
     # plt.figure("show_image")
     # print(image.dtype)
-    plt.imshow(image)
+    channel=len(rgb_image.shape)
+    if channel==3:
+        plt.imshow(rgb_image)
+    else :
+        plt.imshow(rgb_image, cmap='gray')
     plt.axis('on')  # 关掉坐标轴为 off
     plt.title(title)  # 图像题目
     plt.show()
 
-def cv_show_image(title, image):
+def cv_show_image(title, image, type='rgb'):
     '''
     调用OpenCV显示RGB图片
     :param title: 图像标题
     :param image: 输入RGB图像
+    :param type:'rgb' or 'bgr'
     :return:
     '''
     channels=image.shape[-1]
-    if channels==3:
+    if channels==3 and type=='rgb':
         image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)  # 将BGR转为RGB
-    cv2.imshow(title,image)
+    cv2.imshow(title, image)
     cv2.waitKey(0)
 
 def read_image(filename, resize_height=None, resize_width=None, normalization=False):
@@ -63,12 +68,47 @@ def read_image(filename, resize_height=None, resize_width=None, normalization=Fa
     # show_image(filename,rgb_image)
     # rgb_image=Image.open(filename)
     rgb_image = resize_image(rgb_image,resize_height,resize_width)
-    rgb_image = np.array(rgb_image,dtype=np.float32)
+    rgb_image = np.asanyarray(rgb_image)
     if normalization:
         # 不能写成:rgb_image=rgb_image/255
+        rgb_image = np.array(rgb_image,dtype=np.float32)
         rgb_image = rgb_image / 255.0
     # show_image("src resize image",image)
     return rgb_image
+def read_image_gbk(filename, resize_height=None, resize_width=None, normalization=False):
+    '''
+    解决imread不能读取中文路径的问题,读取图片数据,默认返回的是uint8,[0,255]
+    :param filename:
+    :param resize_height:
+    :param resize_width:
+    :param normalization:是否归一化到[0.,1.0]
+    :return: 返回的RGB图片数据
+    '''
+
+    # bgr_image = cv2.imread(filename)
+    bgr_image=cv2.imdecode(np.fromfile(filename,dtype=np.uint8),-1)
+    # bgr_image = cv2.imread(filename,cv2.IMREAD_IGNORE_ORIENTATION|cv2.IMREAD_COLOR)
+    if bgr_image is None:
+        print("Warning:不存在:{}", filename)
+        return None
+    if len(bgr_image.shape) == 2:  # 若是灰度图则转为三通道
+        print("Warning:gray image", filename)
+        bgr_image = cv2.cvtColor(bgr_image, cv2.COLOR_GRAY2BGR)
+
+    rgb_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2RGB)  # 将BGR转为RGB
+    # show_image(filename,rgb_image)
+    # rgb_image=Image.open(filename)
+    rgb_image = resize_image(rgb_image,resize_height,resize_width)
+    rgb_image = np.asanyarray(rgb_image)
+    if normalization:
+        # 不能写成:rgb_image=rgb_image/255
+        rgb_image = np.array(rgb_image,dtype=np.float32)
+        rgb_image = rgb_image / 255.0
+
+    # show_image("src resize image",image)
+    return rgb_image
+
+
 
 def fast_read_image_roi(filename, orig_rect, ImreadModes=cv2.IMREAD_COLOR, normalization=False):
     '''
@@ -110,7 +150,7 @@ def fast_read_image_roi(filename, orig_rect, ImreadModes=cv2.IMREAD_COLOR, norma
         rgb_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2RGB)  # 将BGR转为RGB
     else:
         rgb_image=bgr_image #若是灰度图
-    rgb_image = np.array(rgb_image,dtype=np.float32)
+    rgb_image = np.asanyarray(rgb_image)
     if normalization:
         # 不能写成:rgb_image=rgb_image/255
         rgb_image = rgb_image / 255.0
@@ -171,17 +211,32 @@ def scale_rect(orig_rect,orig_shape,dest_shape):
     dest_rect=[new_x,new_y,new_w,new_h]
     return dest_rect
 
-def show_image_rect(win_name,image,rect):
+def show_image_rects(win_name,image,rect_list):
     '''
     :param win_name:
     :param image:
-    :param rect:
+    :param rect_list:[[ x, y, w, h],[ x, y, w, h]]
     :return:
     '''
-    x, y, w, h=rect
-    point1=(x,y)
-    point2=(x+w,y+h)
-    cv2.rectangle(image, point1, point2, (0, 0, 255), thickness=2)
+    for rect in rect_list:
+        x, y, w, h=rect
+        point1=(x,y)
+        point2=(x+w,y+h)
+        cv2.rectangle(image, point1, point2, (0, 0, 255), thickness=2)
+    cv_show_image(win_name, image)
+
+def show_image_boxes(win_name,image,boxes_list):
+    '''
+    :param win_name:
+    :param image:
+    :param boxes_list:[[ x1, y1, x2, y2],[ x1, y1, x2, y2]]
+    :return:
+    '''
+    for box in boxes_list:
+        x1, y1, x2, y2=box
+        point1=(x1,y1)
+        point2=(x2,y2)
+        cv2.rectangle(image, point1, point2, (0, 0, 255), thickness=2)
     cv_show_image(win_name, image)
 
 def rgb_to_gray(image):
