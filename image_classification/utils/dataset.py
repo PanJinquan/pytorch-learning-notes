@@ -15,8 +15,13 @@ from utils import image_processing
 import os
 from PIL import Image
 
-def read_image(path):
-    return Image.open(path).convert('RGB')
+def read_image(path,mode='RGB'):
+    '''
+    :param path:
+    :param mode: RGB or L
+    :return:
+    '''
+    return Image.open(path).convert(mode)
 
 class TorchDataset(Dataset):
     def __init__(self, filename, image_dir, resize_height=256, resize_width=256, repeat=1, transform=None):

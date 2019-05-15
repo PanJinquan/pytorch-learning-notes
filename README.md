@@ -4,14 +4,15 @@
 >《pytorch实现L2和L1正则化的方法》https://panjinquan.blog.csdn.net/article/details/88426648
 
 ## 2.object_detection目标检测
-> mobileNet v1 v2 SSD目标检测：该项目是参考《pytorch-ssd》https://github.com/qfgaohao/pytorch-ssd修改，主要是方便训练。</br>
+> mobileNet v1 v2 SSD目标检测：该项目是参考《pytorch-ssd》https://github.com/qfgaohao/pytorch-ssd ,修改，主要是方便训练。</br>
 > 数据集VOC2007和VOC2012：</br>
-> 训练方法：修改my_train_ssd.py的参数train_filename和val_filename即可，直接运行训练，例如：</br>
+> 训练方法：my_train_ssd.py</br>
+> 修改my_train_ssd.py的参数train_filename和val_filename即可，直接运行训练，例如：</br>
 ```python
 train_filename = 'E:/git/VOC0712_dataset/train.txt' #训练文件
 val_filename = 'E:/git/VOC0712_dataset/val.txt'     #测试文件
 ```
-> 测试方法：
+> 测试方法：run_ssd_example.py
 ```python
 net_type = 'mb2-ssd-lite' #模型类型
 model_path = 'models/mb2-ssd-lite-Epoch-190-Loss-3.0529016691904802.pth'#模型路径
