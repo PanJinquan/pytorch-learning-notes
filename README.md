@@ -26,7 +26,7 @@ image_path = './dataset/images/6.jpg'#测试图片
 ## 4.caffe2-android
 在android上运行caffe2模型实现图像识别的demo
 
-##5.UNet图像分割
+## 5.UNet图像分割
 使用UNet模型实现的图像分割
 ## 一点笔记
 > 查看GPU使用情况
