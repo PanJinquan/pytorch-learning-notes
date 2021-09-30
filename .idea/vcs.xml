@@ -3,9 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TGS_Salt" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/distillation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/object_detection/faceboxes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/object_detection/yolov3" vcs="Git" />
+=======
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     <mapping directory="$PROJECT_DIR$/pytorch-saltnet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/segmentation" vcs="Git" />
   </component>

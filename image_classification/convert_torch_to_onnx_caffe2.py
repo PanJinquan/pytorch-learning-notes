@@ -212,9 +212,12 @@ def caffe2_predictor_v3(init_net_path, predict_net_path, image_dir, labels_filen
 
 
 if __name__=='__main__':
+<<<<<<< HEAD
     '''
     pip install future,onnx
     '''
+=======
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
 
     model_path = './models/model_epoch53_step0.model'
     onnx_path = './models/pb/model.onnx'

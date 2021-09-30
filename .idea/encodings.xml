@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/multi_label/miandd.py" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
+=======
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
 </project>

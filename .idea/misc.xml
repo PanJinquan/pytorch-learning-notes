@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (torch-py36)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (py36-pytorch)" project-jdk-type="Python SDK" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
 </project>

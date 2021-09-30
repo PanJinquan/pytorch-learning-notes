@@ -31,6 +31,7 @@ def predict(model_path,image_dir,labels_filename):
 
     labels = np.loadtxt(labels_filename, str, delimiter='\t')
 
+<<<<<<< HEAD
     # model= squeezenet.nets(num_classes=5)
     model = resRegularBn.nets(num_classes=5).to(device)
 
@@ -42,6 +43,12 @@ def predict(model_path,image_dir,labels_filename):
     # model.load_state_dict(model['model_state_dict'])
     # model=torch.load(model_path)
     # model.to(device)
+=======
+    model= squeezenet.nets(num_classes=5)
+
+    model.load_state_dict(torch.load(model_path))
+    model.to(device)
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     model.eval()
     # image = Image.open(image_path)
     # test_transform = transforms.Compose([
@@ -80,8 +87,12 @@ if __name__=='__main__':
     labels_filename='./dataset/images/label.txt'
     #
     image_dir='./dataset/images/test_image'
+<<<<<<< HEAD
     model_path='./models/model_epoch0_step0.pth'
     # model_path='./models/model_epoch0_step0.pkl'
 
     # torch.load()
+=======
+    model_path='./models/model_epoch81_step0.model'
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     predict(model_path, image_dir,labels_filename)

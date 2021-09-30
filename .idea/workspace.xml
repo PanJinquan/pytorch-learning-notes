@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
+<<<<<<< HEAD
     <bookmark url="file://$PROJECT_DIR$/gen-efficientnet-pytorch/predictor.py" line="11" />
   </component>
   <component name="ChangeListManager">
@@ -153,12 +154,205 @@
       <change beforePath="$PROJECT_DIR$/torch_onnx/dataset/label.txt" beforeDir="false" afterPath="$PROJECT_DIR$/torch_onnx/dataset/label.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/torch_onnx/opencv_dnn_onnx_demo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/torch_onnx/opencv_dnn_onnx_demo.cpp" afterDir="false" />
     </list>
+=======
+    <bookmark url="file://$PROJECT_DIR$/../cocoapi/PythonAPI/cocoDemo.py" description="cats = coco.loadCats(coco.getCatIds())" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1d950cf-f39f-430b-9716-eb855ccfa020" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/UNet/utils/.idea/utils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pytorch-learning-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytorch-learning-tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/DeepLearningTutorials.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/AutoEncoder实战/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/AutoEncoder实战/ae.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/AutoEncoder实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/AutoEncoder实战/vae.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/.idea/Cifar10与ResNet18实战.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/lenet5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Cifar10与ResNet18实战/考虑到大家的GPU较小，我们这里的ResNet18是阉割版" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson01-初见PyTorch/autograd_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson01-初见PyTorch/demo.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson01-初见PyTorch/lesson1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson01-初见PyTorch/lesson1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson02-开发环境准备/lesson2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/Lesson02-开发环境准备/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson03-简单回归案例/lesson3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/gd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/lesson4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson05-手写数字问题引入/lesson5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson06-基本数据类型/lesson6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson07-创建Tensor/lesson7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson07-创建Tensor/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson08-索引与切片/lesson8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson08-索引与切片/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson09-Tensor变换/Expand.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson09-Tensor变换/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson10-Broadcasting/Broadcasting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson10-Broadcasting/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson11-Tensor合并与分割/Concat.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson11-Tensor合并与分割/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson12-Tensor运算/math operation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson12-Tensor运算/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson13-Tensor统计/statisics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson13-Tensor统计/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson14-Tensor高阶/tensor advanced.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson14-Tensor高阶/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson16-什么是梯度/16 梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson17-常见梯度/17 常见函数梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson18-激活函数与Loss的梯度/18.1 激活函数梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson18-激活函数与Loss的梯度/18.2 LOSS及其梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson19-感知机的梯度推导/19.1 单一输出感知机.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson19-感知机的梯度推导/19.2 多输出感知机.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson19-感知机的梯度推导/lesson19.1.mp4.baiduyun.uploading.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson19-感知机的梯度推导/lesson19.2.mp4.baiduyun.uploading.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson20-链式法则/20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson21-MLP反向传播推导/21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson22-优化小实例/22 Himmelblau.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson22-优化小实例/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson24-Logistic Regression/24 LR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson25-交叉熵/25 交叉熵.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson26-LR多分类实战/26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson26-LR多分类实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson27-MLP网络层/27 全连接层.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson27-MLP网络层/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson28-激活函数与GPU加速/28.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson28-激活函数与GPU加速/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson29-MNIST测试/29.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson29-MNIST测试/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson30-Visdom可视化/30 可视化.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson30-Visdom可视化/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson31-过拟合与欠拟合/31.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson32-Train-Val-Test-交叉验证/32.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson32-Train-Val-Test-交叉验证/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson33-regularization/33.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson33-regularization/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson34-动量与lr衰减/34.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson35-early stopping, dropout, sgd/35.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson35-early stopping, dropout, sgd/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson37-什么是卷积/37 卷积.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson38-卷积神经网络/38 CNN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson39-Pooling&amp;upsample/39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson40-BatchNorm/40.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson41-LeNet5,AlexNet, VGG, GoogLeNet/41.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson42-ResNet/42.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson42-ResNet/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson43-nn.Module/43.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson43-nn.Module/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson44-数据增强/44.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson44-数据增强/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson46-时间序列表示/46.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson46-时间序列表示/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson47-RNN原理/47.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson48-RNN Layer使用/48.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson48-RNN Layer使用/rnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson49-时间序列预测/49.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson49-时间序列预测/seris.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson50-RNN训练难题/50.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson51-LSTM原理/51.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson52-LSTM Layer使用/52.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson53-情感分类实战/53.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson53-情感分类实战/lstm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson53-情感分类实战/lstm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson54-61-GAN原理/GAN样片.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson54-61-GAN原理/深度学习：GAN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson62-65-GAN实战/gan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/lesson62-65-GAN实战/wgan_gp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/课程介绍/2019-01-12 (6).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/课程介绍/2019-01-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningTutorials/课程介绍/content.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classification/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classification/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classification/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/convert_to_caffe2_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/dataset/voc-model-labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/draw_eval_results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/eval_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/extract_tf_weights.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/my_train_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/open_images_downloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/prune_alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/run_ssd_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/run_ssd_live_caffe2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/run_ssd_live_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/train_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/translate_tf_mobilenetv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/utils/file_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/utils/image_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/datasets/collation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/datasets/my_voc_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/datasets/open_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/datasets/voc_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/mobilenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/mobilenet_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/multibox_loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/scaled_l2_norm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/squeezenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/nn/vgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/prunning/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/prunning/prunner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/config/mobilenetv1_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/config/squeezenet_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/config/vgg_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/data_preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/fpn_mobilenetv1_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/fpn_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/mobilenet_v2_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/mobilenetv1_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/mobilenetv1_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/predictor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/squeezenet_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/ssd/vgg_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/test/test_vgg_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/transforms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/transforms/transforms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/box_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/box_utils_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/measurements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/vision/utils/model_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/visual_tf_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-saltnet/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-saltnet/train.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1558511594857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi_label/core" />
     <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$performance_test.coverage" NAME="performance_test Coverage Results" MODIFIED="1554793636592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
     <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$dataset__1_.coverage" NAME="dataset (1) Coverage Results" MODIFIED="1558516209375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi_label/core" />
@@ -261,23 +455,183 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="pytorch-learning-tutorials" />
+=======
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$performance_test.coverage" NAME="performance_test Coverage Results" MODIFIED="1554793636592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_mobileNet_V2.coverage" NAME="train_mobileNet_V2 Coverage Results" MODIFIED="1554793764953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$load_dataset__1_.coverage" NAME="load_dataset (1) Coverage Results" MODIFIED="1552113912087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/utils" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$my_train_ssd.coverage" NAME="my_train_ssd Coverage Results" MODIFIED="1555595588021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$softmax.coverage" NAME="softmax Coverage Results" MODIFIED="1553160921393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$fashion_mnist_cnn_v2.coverage" NAME="fashion_mnist_cnn_v2 Coverage Results" MODIFIED="1552032387518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PytorchDataset" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_simpleNet.coverage" NAME="train_simpleNet Coverage Results" MODIFIED="1554772691549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_squeezenet__1_.coverage" NAME="train_squeezenet (1) Coverage Results" MODIFIED="1553080062671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$dataset_repeat.coverage" NAME="dataset_repeat Coverage Results" MODIFIED="1552012646671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PytorchDataset/utils" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$image_processing.coverage" NAME="image_processing Coverage Results" MODIFIED="1552301305224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/utils" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$ResNetBatchNorm.coverage" NAME="ResNetBatchNorm Coverage Results" MODIFIED="1552300645254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/core" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$resRegularBn.coverage" NAME="resRegularBn Coverage Results" MODIFIED="1552362067070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/core" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train.coverage" NAME="train Coverage Results" MODIFIED="1555738459404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch-saltnet" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$super_resolution_with_caffe2_zh.coverage" NAME="super_resolution_with_caffe2_zh Coverage Results" MODIFIED="1552962825989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/torch_onnx" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$super_resolution_with_caffe2.coverage" NAME="super_resolution_with_caffe2 Coverage Results" MODIFIED="1552960207681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/torch_onnx" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$resnet.coverage" NAME="resnet Coverage Results" MODIFIED="1552295807632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/core" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_example.coverage" NAME="run_ssd_example Coverage Results" MODIFIED="1555591974343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$Loading_Pretrained_Models.coverage" NAME="Loading_Pretrained_Models Coverage Results" MODIFIED="1553075744252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/torch_onnx" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$predict.coverage" NAME="predict Coverage Results" MODIFIED="1552983666496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$my_voc_dataset.coverage" NAME="my_voc_dataset Coverage Results" MODIFIED="1555464811895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/vision/datasets" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_live_demo.coverage" NAME="run_ssd_live_demo Coverage Results" MODIFIED="1554808934768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$resnet18.coverage" NAME="resnet18 Coverage Results" MODIFIED="1552111503849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/core" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$load_dataset.coverage" NAME="load_dataset Coverage Results" MODIFIED="1552112839378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$fashion_mnist_cnn.coverage" NAME="fashion_mnist_cnn Coverage Results" MODIFIED="1552027449499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PytorchDataset" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$fashion_mnist_dataset.coverage" NAME="fashion_mnist_dataset Coverage Results" MODIFIED="1551950265906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PytorchDataset" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$convert_onnx_caffe2.coverage" NAME="convert_onnx_caffe2 Coverage Results" MODIFIED="1553668354374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$fashion_mnist_cnn_v2__1_.coverage" NAME="fashion_mnist_cnn_v2 (1) Coverage Results" MODIFIED="1552111431487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1555740514022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kaggle-TGS" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$torch_onnx.coverage" NAME="torch_onnx Coverage Results" MODIFIED="1552117752702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/torch_onnx" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$convert_onnx_caffe2__1_.coverage" NAME="convert_onnx_caffe2 (1) Coverage Results" MODIFIED="1553133271015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$simpleNet.coverage" NAME="simpleNet Coverage Results" MODIFIED="1552111652710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/core" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$dataset_v2.coverage" NAME="dataset_v2 Coverage Results" MODIFIED="1552114874534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/utils" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_mobileNet.coverage" NAME="train_mobileNet Coverage Results" MODIFIED="1554784061956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$voc_dataset.coverage" NAME="voc_dataset Coverage Results" MODIFIED="1555464418205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/vision/datasets" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_squeezenet.coverage" NAME="train_squeezenet Coverage Results" MODIFIED="1553159067748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_resNet.coverage" NAME="train_resNet Coverage Results" MODIFIED="1554773112854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_ssd.coverage" NAME="train_ssd Coverage Results" MODIFIED="1555463439507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1552301658104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classification/utils" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$train_mobileNet_V1.coverage" NAME="train_mobileNet_V1 Coverage Results" MODIFIED="1554792758376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_classification" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/my_voc_train_ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1871">
+              <caret line="73" column="53" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/ssd/ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/image_processing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_classification/utils/file_processing.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_PCwall.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="74" column="81" lean-forward="true" selection-start-line="74" selection-start-column="81" selection-end-line="74" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/voc_label.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3000">
+              <caret line="155" column="21" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
+              <folding>
+                <element signature="e#168#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/dataset/PCwall_label.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="84" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="84" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Jupyter Notebook" />
+=======
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
+=======
+      <find>ws.FeedBlob</find>
+      <find>dropout</find>
+      <find>data</find>
+      <find>c2</find>
+      <find>ModelProto</find>
+      <find>click</find>
+      <find>Pytorch version</find>
+      <find>num_workers</find>
+      <find>dataset_type</find>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <find>difficult</find>
       <find>datasets</find>
       <find>extra_layers_lr</find>
       <find>args.net</find>
       <find>base_net_lr</find>
       <find>scheduler</find>
+<<<<<<< HEAD
       <find>rlenc_np</find>
       <find>DEVICE</find>
       <find>702</find>
@@ -302,6 +656,11 @@
       <find>input</find>
       <find>world_size</find>
       <find>args.local_rank</find>
+=======
+      <find>arch</find>
+      <find>rlenc_np</find>
+      <find>DEVICE</find>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -310,6 +669,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/modules/featuremap/feature_extractor.py" />
         <option value="$PROJECT_DIR$/modules/performance/core/custom_resnet.py" />
         <option value="$PROJECT_DIR$/modules/save_load/main.py" />
@@ -380,6 +740,68 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1o6JfLHuFwR2CDbHRgNYtv42AyR" />
+=======
+        <option value="$USER_HOME$/anaconda3/envs/pytorch-cpu/lib/python3.5/site-packages/caffe2/python/onnx/bin/conversion.py" />
+        <option value="$PROJECT_DIR$/image_classification/utils/convert_torch_to_onnx.py" />
+        <option value="$PROJECT_DIR$/image_classification/convert_onnx_caffe2.py" />
+        <option value="$PROJECT_DIR$/image_classification/utils/convert_onnx_to_caffe2.py" />
+        <option value="$PROJECT_DIR$/image_classification/core/squeezenet.py" />
+        <option value="$PROJECT_DIR$/image_classification/train_squeezenet.py" />
+        <option value="$PROJECT_DIR$/image_classification/softmax.py" />
+        <option value="$PROJECT_DIR$/image_classification/predict.py" />
+        <option value="$PROJECT_DIR$/image_classification/convert_torch_to_onnx_caffe2.py" />
+        <option value="$PROJECT_DIR$/caffe2-android/README.md" />
+        <option value="$PROJECT_DIR$/image_classification/train_resNet.py" />
+        <option value="$PROJECT_DIR$/image_classification/train_mobileNet.py" />
+        <option value="$PROJECT_DIR$/image_classification/core/MobileNetV2.py" />
+        <option value="$PROJECT_DIR$/image_classification/core/mobileNet_V2.py" />
+        <option value="$PROJECT_DIR$/image_classification/train_mobileNet_V1.py" />
+        <option value="$PROJECT_DIR$/image_classification/core/mobileNet_V1.py" />
+        <option value="$PROJECT_DIR$/image_classification/performance_test.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/utils/misc.py" />
+        <option value="$PROJECT_DIR$/object_detection/run_ssd_live_demo.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/ssd/mobilenet_v2_ssd_lite.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/ssd/predictor.py" />
+        <option value="$PROJECT_DIR$/image_classification/utils/image_processing.py" />
+        <option value="$PROJECT_DIR$/../VOC0712_dataset/voc_label_no_scale.py" />
+        <option value="$PROJECT_DIR$/object_detection/train_ssd.py" />
+        <option value="$PROJECT_DIR$/object_detection/my_test.py" />
+        <option value="$PROJECT_DIR$/object_detection/my_train_ssd_v2.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/ssd/data_preprocessing.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/datasets/voc_dataset.py" />
+        <option value="$PROJECT_DIR$/object_detection/vision/datasets/my_voc_dataset.py" />
+        <option value="$PROJECT_DIR$/object_detection/my_train_ssd.py" />
+        <option value="$PROJECT_DIR$/object_detection/run_ssd_example.py" />
+        <option value="$PROJECT_DIR$/segmentation/TGS_Salt_resnext50_unet_5Fold_scSE.ipynb" />
+        <option value="$PROJECT_DIR$/pytorch-saltnet/train.py" />
+        <option value="$PROJECT_DIR$/Kaggle-TGS/config.json" />
+        <option value="$PROJECT_DIR$/Kaggle-TGS/README.md" />
+        <option value="$PROJECT_DIR$/Kaggle-TGS/train.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/image_classification/utils/dataset.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/README_for_train.md" />
+        <option value="$PROJECT_DIR$/UNet/unet/unet_model.py" />
+        <option value="$PROJECT_DIR$/UNet/unet/unet_dilated.py" />
+        <option value="$PROJECT_DIR$/image_classification/train_mobileNet_V2.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/my_train_ssd.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/dataset/my_voc.txt" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_voc.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_PCwall.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/image_processing.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/datasets/my_voc_dataset.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/voc_label.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/my_voc_train_ssd.py" />
+        <option value="$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_image.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="249" />
+    <option name="y" value="113" />
+    <option name="width" value="1678" />
+    <option name="height" value="934" />
+  </component>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -391,8 +813,13 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="pytorch-learning-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch-learning-notes" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="pytorch-learning-tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-learning-tutorials" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
             </path>
           </expand>
           <select />
@@ -400,6 +827,7 @@
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -433,6 +861,44 @@
   </component>
   <component name="RunManager" selected="Python.demo">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/object_detection/MobileNet_SSD/utils" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\pytorch-learning-tutorials\object_detection\MobileNet_SSD\utils" />
+      <recent name="E:\git\pytorch-learning-tutorials\object_detection\MobileNet_SSD" />
+      <recent name="E:\git\pytorch-learning-tutorials\image_classification\utils" />
+      <recent name="E:\git\pytorch-learning-tutorials\object_detection\MobileNet_SSD\vision\datasets" />
+      <recent name="E:\git\pytorch-learning-tutorials\UNet\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image_classification/utils" />
+      <recent name="$PROJECT_DIR$/image_classification/models/pb" />
+      <recent name="$PROJECT_DIR$/torch_onnx/models" />
+      <recent name="$PROJECT_DIR$/torch_onnx/image" />
+      <recent name="D:\MyGit\pytorch-learning-tutorials\Classification\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_ssd_for_image">
+    <configuration name="my_voc_train_ssd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <module name="pytorch-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -440,12 +906,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/GCN" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/GCN/demo.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection/MobileNet_SSD/my_voc_train_ssd.py" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,7 +928,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="distributed-pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="run_ssd_for_PCwall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <module name="pytorch-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,12 +940,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed-pytorch" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed-pytorch/distributed-pytorch.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_PCwall.py" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,7 +962,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="distributed-pytorch2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="run_ssd_for_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <module name="pytorch-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -484,12 +974,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed-pytorch" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed-pytorch/distributed-pytorch.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_image.py" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -498,7 +996,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="distributed_imagenet_custom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="run_ssd_for_voc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <module name="pytorch-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,12 +1008,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed-pytorch" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed-pytorch/distributed_imagenet_custom.py" />
+=======
+      <option name="SCRIPT_NAME" value="E:\git\pytorch-learning-tutorials\object_detection\MobileNet_SSD\run_ssd_for_PCwall.py" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -520,7 +1030,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="voc_label" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <module name="pytorch-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -528,12 +1042,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/performance" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/performance/performance_main.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_detection/MobileNet_SSD/voc_label.py" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -543,6 +1065,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.distributed-pytorch2" />
       <item itemvalue="Python.distributed-pytorch" />
       <item itemvalue="Python.distributed_imagenet_custom" />
@@ -560,6 +1083,24 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+=======
+      <item itemvalue="Python.run_ssd_for_voc" />
+      <item itemvalue="Python.run_ssd_for_PCwall" />
+      <item itemvalue="Python.run_ssd_for_image" />
+      <item itemvalue="Python.voc_label" />
+      <item itemvalue="Python.my_voc_train_ssd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_ssd_for_image" />
+        <item itemvalue="Python.my_voc_train_ssd" />
+        <item itemvalue="Python.voc_label" />
+        <item itemvalue="Python.run_ssd_for_PCwall" />
+        <item itemvalue="Python.run_ssd_for_voc" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -584,6 +1125,7 @@
       <workItem from="1557361904991" duration="13488000" />
       <workItem from="1557707685490" duration="13364000" />
       <workItem from="1557799525206" duration="13529000" />
+<<<<<<< HEAD
       <workItem from="1559355323529" duration="2319000" />
       <workItem from="1559667819375" duration="113000" />
       <workItem from="1559895247351" duration="21320000" />
@@ -596,10 +1138,13 @@
       <workItem from="1612775198500" duration="912000" />
       <workItem from="1612776184851" duration="15000" />
       <workItem from="1615350670089" duration="24000" />
+=======
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="221039000" />
   </component>
   <component name="TodoView">
@@ -683,6 +1228,39 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+    <option name="totallyTimeSpent" value="165130000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7670576" weight="0.25813448" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7990405" weight="0.47288504" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.20095949" side_tool="true" weight="0.47288504" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" visible="true" weight="0.12473348" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -719,7 +1297,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/image_classification/train_resNet.py</url>
+<<<<<<< HEAD
           <line>93</line>
+=======
+          <line>92</line>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -744,12 +1326,24 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/image_classification/convert_torch_to_onnx_caffe2.py</url>
+<<<<<<< HEAD
+=======
+          <line>197</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image_classification/convert_torch_to_onnx_caffe2.py</url>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           <line>142</line>
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/image_classification/train_resNet.py</url>
+<<<<<<< HEAD
           <line>203</line>
+=======
+          <line>202</line>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -788,6 +1382,14 @@
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+<<<<<<< HEAD
+=======
+          <url>file://$PROJECT_DIR$/object_detection/MobileNet_SSD/my_train_ssd.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           <url>file://$PROJECT_DIR$/UNet/unet/unet_dilated.py</url>
           <line>116</line>
           <option name="timeStamp" value="181" />
@@ -808,6 +1410,7 @@
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/multi_label/multi_label_example.py</url>
           <line>20</line>
         </line-breakpoint>
@@ -1026,10 +1629,146 @@
           <caret line="23" selection-start-line="23" selection-end-line="36" selection-end-column="57" />
           <folding>
             <element signature="e#372#383#0" expanded="true" />
+=======
+          <url>file://$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/file_processing.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/datasets/my_voc_dataset.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="output" />
+        <watch expression="x2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$my_voc_train_ssd.coverage" NAME="my_voc_train_ssd Coverage Results" MODIFIED="1557745812907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_for_PCwall.coverage" NAME="run_ssd_for_PCwall Coverage Results" MODIFIED="1557450016346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$unet_dilated.coverage" NAME="unet_dilated Coverage Results" MODIFIED="1557212618304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNet/unet" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_example.coverage" NAME="run_ssd_example Coverage Results" MODIFIED="1557448589924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$my_train_ssd__1_.coverage" NAME="my_train_ssd (1) Coverage Results" MODIFIED="1557401201343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_for_image.coverage" NAME="run_ssd_for_image Coverage Results" MODIFIED="1557800469227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$unet_model.coverage" NAME="unet_model Coverage Results" MODIFIED="1557199043922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNet/unet" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$run_ssd_for_voc.coverage" NAME="run_ssd_for_voc Coverage Results" MODIFIED="1557448871290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+    <SUITE FILE_PATH="coverage/pytorch_learning_tutorials$voc_label.coverage" NAME="voc_label Coverage Results" MODIFIED="1557743984711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object_detection/MobileNet_SSD" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/dataset_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/dataset_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaggle-TGS/merge.py" />
+    <entry file="file://$PROJECT_DIR$/Kaggle-TGS/test.py" />
+    <entry file="file://$PROJECT_DIR$/pytorch-saltnet/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/py36-pytorch/Lib/site-packages/torchvision/models/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/load_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="142" column="32" lean-forward="true" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-saltnet/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="90" column="44" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="44" />
+          <folding>
+            <element signature="e#117#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-saltnet/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-saltnet/utils/rle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="155" column="18" selection-start-line="120" selection-end-line="155" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/train_simpleNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="67" column="23" selection-start-line="67" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/train_resNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/performance_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-saltnet/swa.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2880">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/modules/save_load/save_load_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1099,22 +1838,154 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="347" column="61" lean-forward="true" selection-start-line="347" selection-end-line="348" />
+=======
+    <entry file="file://$PROJECT_DIR$/UNet/unet/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNet/utils/image_processing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="39" />
+          <folding>
+            <element signature="e#185#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/core/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="95" selection-start-line="95" selection-end-line="109" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNet/unet/unet_dilated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/py36-pytorch/Lib/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5980">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/py36-pytorch/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9620">
+          <caret line="488" selection-start-line="488" selection-end-line="488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNet/unet/unet_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#59#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNet/unet/unet_parts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding>
+            <element signature="e#32#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/train_squeezenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/train_mobileNet_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#197#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/datasets/voc_dataset2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/my_train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="159" column="19" selection-start-line="159" selection-start-column="19" selection-end-line="159" selection-end-column="19" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/distributed-pytorch/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="405">
             <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+=======
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/dataset/voc-model-labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/py36-pytorch/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="615" column="31" selection-start-line="615" selection-start-column="31" selection-end-line="615" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/image_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/pascal_voc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/README_for_train.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/distributed-pytorch/imagenet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -1154,10 +2025,72 @@
           <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
           <folding>
             <element signature="e#289#301#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3643">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/datasets/my_voc_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/ssd/ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/utils/image_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/voc_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="155" column="21" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
+          <folding>
+            <element signature="e#168#202#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/dataset/PCwall_label.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/my_voc_train_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1871">
+          <caret line="73" column="53" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/modules/performance/core/torch_resnet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1178,9 +2111,56 @@
           <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
             <element signature="e#182#194#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/vision/ssd/vgg_ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_live_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-908">
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/image_classification/utils/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_PCwall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_detection/MobileNet_SSD/run_ssd_for_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="74" column="81" lean-forward="true" selection-start-line="74" selection-start-column="81" selection-end-line="74" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="84" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="84" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
   </component>
 </project>

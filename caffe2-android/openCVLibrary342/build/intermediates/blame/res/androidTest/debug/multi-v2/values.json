@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MyGit\\caffe2\\OpenCV-Android-Demo\\openCVLibrary342\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "D:\\MyGit\\caffe2\\caffe2-android\\openCVLibrary342\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "D:\\MyGitPro\\OpenCV-Android-Demo\\openCVLibrary342\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "D:\\MyGit\\OpenCV-Android-Demo\\OpenCV-Android-Demo\\openCVLibrary342\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        }
+    ]
+}

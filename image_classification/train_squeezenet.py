@@ -21,8 +21,13 @@ import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 # 检查GPU是否可用
+<<<<<<< HEAD
 # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 device='cpu'
+=======
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# device='cpu'
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
 print("-----device:{}".format(device))
 print("-----Pytorch version:{}".format(torch.__version__))
 
@@ -159,6 +164,7 @@ def net_train(train_filename, train_image_dir, test_filename, test_image_dir, nu
         transforms.RandomHorizontalFlip(),#随机翻转图像
         transforms.RandomCrop(size=(resize_height, resize_width), padding=4),  # 随机裁剪
         transforms.ToTensor(),  # 吧shape=(H,W,C)->换成shape=(C,H,W),并且归一化到[0.0, 1.0]的torch.FloatTensor类型
+<<<<<<< HEAD
         # transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
     ])
 
@@ -167,6 +173,16 @@ def net_train(train_filename, train_image_dir, test_filename, test_image_dir, nu
         # transforms.CenterCrop(resize_height),
         transforms.ToTensor(),
         # transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+=======
+        transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+    ])
+
+    val_transform = transforms.Compose([
+        transforms.Resize(256),
+        transforms.CenterCrop(resize_height),
+        transforms.ToTensor(),
+        transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     ])
 
 
@@ -183,7 +199,11 @@ def net_train(train_filename, train_image_dir, test_filename, test_image_dir, nu
     print("test_data_nums :{}".format(test_data_nums))
     max_iterate=int((train_data_nums+batch_size-1) / batch_size * epoch_nums) #总迭代次数
 
+<<<<<<< HEAD
     model = resnet.ResNet18(num_classes=num_classes).to(device)
+=======
+    # model = resnet.ResNet18(num_classes=num_classes).to(device)
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
     model = squeezenet.nets(num_classes=num_classes).to(device)
     # model = resNetBatchNorm.nets(num_classes=num_classes).to(device)
     print("model,info:\n{}".format(model))
@@ -239,7 +259,11 @@ def net_train(train_filename, train_image_dir, test_filename, test_image_dir, nu
 
             if step % save_interval==0:
                 # 保存和加载整个模型
+<<<<<<< HEAD
                 model_path="models/model_epoch{}_step{}.pth".format(epoch,step)
+=======
+                model_path="models/model_epoch{}_step{}.model".format(epoch,step)
+>>>>>>> 166dd1f31f4d3c4ce73f13077cf6619bbff91635
                 # torch.save(model, 'models/model.pkl')
                 torch.save(model.state_dict(), model_path)
                 print("save model:{}".format(model_path))
