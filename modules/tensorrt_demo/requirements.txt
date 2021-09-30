@@ -1,0 +1,5 @@
+Pillow==6.0.0
+numpy==1.16.3
+pytorch==1.1.0
+torchvision==0.3
+

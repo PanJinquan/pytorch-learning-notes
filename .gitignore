@@ -1,0 +1,29 @@
+# git rm -r --cached .
+# git add .
+# git commit -m 'update .gitignore'
+
+__pycache__/
+*.py[cod]
+./evaluation/eval_output
+evaluation/eval_output
+.idea/
+docker/codes/
+.polyaxon
+build/
+.ipynb_checkpoints/
+.DS_Store
+pip
+eth.yaml
+
+#*.whl
+#*.so
+#*.pth
+#*.weights
+
+# Cython generation files
+#*/cpu_nms.c
+#*/gpu_nms.cpp
+
+work_space/
+train_kd.py
+train_sr.py

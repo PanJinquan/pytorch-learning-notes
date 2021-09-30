@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.68.62" id="f361b70a-9465-4dcb-9a37-e26d9217b0e2" port="22" customName="192.168.68.62" nameFormat="CUSTOM">
+        <option name="customName" value="192.168.68.62" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.68.6" id="95a06dcf-86f9-447a-ba71-144533f2161d" port="22" customName="192.168.68.6" nameFormat="CUSTOM">
+        <option name="customName" value="192.168.68.6" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

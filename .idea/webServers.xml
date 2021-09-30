@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9d28eda-44a2-4a0e-b133-ba3e855c5873" name="192.168.68.62" url="http://192.168.68.62">
+        <fileTransfer host="192.168.68.62" port="22" rootFolder="/home/panjinquan/project/pytorch-learning-tutorials" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b7363517-0bea-4362-99fb-314573bbae40" name="192.168.68.6" url="http://192.168.68.6">
+        <fileTransfer host="192.168.68.6" port="22" rootFolder="/home/panjinquan/project/pytorch-learning-tutorials" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

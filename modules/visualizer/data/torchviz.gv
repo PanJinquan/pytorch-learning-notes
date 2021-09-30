@@ -1,0 +1,25 @@
+digraph {
+	graph [size="12,12"]
+	node [align=left fontsize=12 height=0.2 ranksep=0.1 shape=box style=filled]
+	140133887711776 [label=AddmmBackward fillcolor=darkolivegreen1]
+	140133887712000 -> 140133887711776
+	140133887712000 [label="W1.bias
+ (1)" fillcolor=lightblue]
+	140133887712672 -> 140133887711776
+	140133887712672 [label=TanhBackward]
+	140133887734000 -> 140133887712672
+	140133887734000 [label=AddmmBackward]
+	140133887736016 -> 140133887734000
+	140133887736016 [label="W0.bias
+ (16)" fillcolor=lightblue]
+	140133887735904 -> 140133887734000
+	140133887735904 [label=TBackward]
+	140133887284224 -> 140133887735904
+	140133887284224 [label="W0.weight
+ (16, 8)" fillcolor=lightblue]
+	140133887712840 -> 140133887711776
+	140133887712840 [label=TBackward]
+	140133887735792 -> 140133887712840
+	140133887735792 [label="W1.weight
+ (1, 16)" fillcolor=lightblue]
+}

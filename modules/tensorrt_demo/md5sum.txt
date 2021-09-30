@@ -1,0 +1,1 @@
+9c518891e0912b1c4f0e71165cff4635  XMC2-Rec_face_recognition.pth.tar

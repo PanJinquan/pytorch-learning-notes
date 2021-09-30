@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33d60945-2516-48ba-8105-4260a5f5af09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/pytorch-learning-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/pytorch-learning-tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/DeepLearningTutorials.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/AutoEncoder实战/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/AutoEncoder实战/ae.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/AutoEncoder实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/AutoEncoder实战/vae.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/.idea/Cifar10与ResNet18实战.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/lenet5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Cifar10与ResNet18实战/考虑到大家的GPU较小，我们这里的ResNet18是阉割版" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson01-初见PyTorch/autograd_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson01-初见PyTorch/demo.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson01-初见PyTorch/lesson1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson01-初见PyTorch/lesson1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson02-开发环境准备/lesson2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/Lesson02-开发环境准备/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson03-简单回归案例/lesson3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/gd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson04-简单回归案例-PyTorch求解/lesson4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson05-手写数字问题引入/lesson5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson06-基本数据类型/lesson6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson07-创建Tensor/lesson7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson07-创建Tensor/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson08-索引与切片/lesson8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson08-索引与切片/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson09-Tensor变换/Expand.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson09-Tensor变换/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson10-Broadcasting/Broadcasting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson10-Broadcasting/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson11-Tensor合并与分割/Concat.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson11-Tensor合并与分割/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson12-Tensor运算/math operation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson12-Tensor运算/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson13-Tensor统计/statisics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson13-Tensor统计/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson14-Tensor高阶/tensor advanced.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson14-Tensor高阶/这一章代码量少，同学们照着写.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson16-什么是梯度/16 梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson17-常见梯度/17 常见函数梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson18-激活函数与Loss的梯度/18.1 激活函数梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson18-激活函数与Loss的梯度/18.2 LOSS及其梯度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson19-感知机的梯度推导/19.1 单一输出感知机.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson19-感知机的梯度推导/19.2 多输出感知机.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson19-感知机的梯度推导/lesson19.1.mp4.baiduyun.uploading.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson19-感知机的梯度推导/lesson19.2.mp4.baiduyun.uploading.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson20-链式法则/20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson21-MLP反向传播推导/21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson22-优化小实例/22 Himmelblau.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson22-优化小实例/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson24-Logistic Regression/24 LR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson25-交叉熵/25 交叉熵.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson26-LR多分类实战/26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson26-LR多分类实战/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson27-MLP网络层/27 全连接层.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson27-MLP网络层/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson28-激活函数与GPU加速/28.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson28-激活函数与GPU加速/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson29-MNIST测试/29.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson29-MNIST测试/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson30-Visdom可视化/30 可视化.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson30-Visdom可视化/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson31-过拟合与欠拟合/31.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson32-Train-Val-Test-交叉验证/32.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson32-Train-Val-Test-交叉验证/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson33-regularization/33.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson33-regularization/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson34-动量与lr衰减/34.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson35-early stopping, dropout, sgd/35.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson35-early stopping, dropout, sgd/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson37-什么是卷积/37 卷积.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson38-卷积神经网络/38 CNN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson39-Pooling&amp;upsample/39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson40-BatchNorm/40.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson41-LeNet5,AlexNet, VGG, GoogLeNet/41.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson42-ResNet/42.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson42-ResNet/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson43-nn.Module/43.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson43-nn.Module/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson44-数据增强/44.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson44-数据增强/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson46-时间序列表示/46.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson46-时间序列表示/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson47-RNN原理/47.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson48-RNN Layer使用/48.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson48-RNN Layer使用/rnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson49-时间序列预测/49.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson49-时间序列预测/seris.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson50-RNN训练难题/50.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson51-LSTM原理/51.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson52-LSTM Layer使用/52.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson53-情感分类实战/53.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson53-情感分类实战/lstm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson53-情感分类实战/lstm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson54-61-GAN原理/GAN样片.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson54-61-GAN原理/深度学习：GAN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson62-65-GAN实战/gan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/lesson62-65-GAN实战/wgan_gp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/课程介绍/2019-01-12 (6).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/课程介绍/2019-01-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeepLearningTutorials/课程介绍/content.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image_classification/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../image_classification/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image_classification/utils/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../image_classification/utils/file_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image_classification/utils/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../image_classification/utils/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/convert_to_caffe2_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/dataset/voc-model-labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/draw_eval_results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/eval_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/extract_tf_weights.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/my_train_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/open_images_downloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/prune_alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/run_ssd_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/run_ssd_live_caffe2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/run_ssd_live_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/train_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/translate_tf_mobilenetv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/utils/file_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/utils/image_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/datasets/collation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/datasets/my_voc_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/datasets/open_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/datasets/voc_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/mobilenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/mobilenet_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/multibox_loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/scaled_l2_norm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/squeezenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/nn/vgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/prunning/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/prunning/prunner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/config/mobilenetv1_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/config/squeezenet_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/config/vgg_ssd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/data_preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/fpn_mobilenetv1_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/fpn_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/mobilenet_v2_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/mobilenetv1_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/mobilenetv1_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/predictor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/squeezenet_ssd_lite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/ssd/vgg_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/test/test_vgg_ssd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/transforms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/transforms/transforms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/box_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/box_utils_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/measurements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/vision/utils/model_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object_detection/visual_tf_models.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="56" />
+    <option name="width" value="1678" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d60945-2516-48ba-8105-4260a5f5af09" name="Default Changelist" comment="" />
+      <created>1557468084802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557468084802</updated>
+      <workItem from="1557468105567" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

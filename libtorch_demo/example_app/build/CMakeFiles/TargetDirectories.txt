@@ -1,0 +1,3 @@
+/media/dm/dm/project/pytorch-learning-tutorials/libtorch_demo/example_app/build/CMakeFiles/edit_cache.dir
+/media/dm/dm/project/pytorch-learning-tutorials/libtorch_demo/example_app/build/CMakeFiles/touchDemo-app.dir
+/media/dm/dm/project/pytorch-learning-tutorials/libtorch_demo/example_app/build/CMakeFiles/rebuild_cache.dir
